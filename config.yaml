@@ -1,0 +1,7 @@
+
+user/repository:
+  SECRET_NAME: SECRET_VALUE
+
+organization/repository:
+  SECRET_NAME: SECRET_VALUE
+
