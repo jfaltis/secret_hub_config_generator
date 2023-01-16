@@ -8,7 +8,7 @@ A config file generator for [SecretHub](https://github.com/DannyBen/secret_hub).
 2. Clone this repository:
 
 ```shell
-git clone https://github.com/jfaltis/secret_hub_config_generator.git`
+git clone https://github.com/jfaltis/secret_hub_config_generator.git
 cd secret_hub_config_generator
 ```
 
